@@ -1,0 +1,23 @@
+{
+  "name": "02-scripting-http-requests-with-the-request-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ratofkryll/scripting-http-requests-with-the-request-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ratofkryll/scripting-http-requests-with-the-request-package/issues"
+  },
+  "homepage": "https://github.com/ratofkryll/scripting-http-requests-with-the-request-package#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
